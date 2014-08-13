@@ -9,7 +9,10 @@ import Debug.Trace
 main = trace "Hello, PureScript!"
 
 -- Build the code, redirect the output, set the main module and remove unused code:
--- psc src/hello-ps.purs --output dist/Main.js --main Hello.Ps --module Hello.Ps
+-- $ psc src/hello-ps.purs --output dist/Main.js --main Hello.Ps --module Hello.Ps
 --
 -- Run the code using NodeJS:
--- node dist/Main.js
+-- $ node dist/Main.js
+--
+-- Alternatively you can use Grunt and Grunt-PureScript to compile the code:
+-- $ grunt
