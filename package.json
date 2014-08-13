@@ -1,0 +1,13 @@
+{
+  "name": "hello-purescript",
+  "version": "1.0.0",
+  "description": "My first PureScript App!!!",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-purescript": "^0.5.1",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "author": "David G. Chaves",
+  "license": "DWYWWM (Do Whatever You Want With Me) License"
+}
