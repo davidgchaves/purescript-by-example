@@ -3,3 +3,6 @@ dist/
 
 # ignore npm modules directory
 node_modules/
+
+# ignore bower components directory
+bower_components/
