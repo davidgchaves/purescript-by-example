@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My first PureScript App!!!",
   "main": "Gruntfile.js",
+  "private": true,
   "dependencies": {
     "grunt-purescript": "^0.5.1",
     "grunt": "^0.4.5"
