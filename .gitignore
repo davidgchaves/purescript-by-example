@@ -1,2 +1,5 @@
 # ignore output javascript files
 dist/
+
+# ignore npm modules directory
+node_modules/
