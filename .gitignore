@@ -1,8 +1,14 @@
 # ignore output javascript files
 dist/
 
-# ignore npm modules directory
+# ignore npm_modules directory
 node_modules/
 
-# ignore bower components directory
+# ignore bower_components directory
 bower_components/
+
+# ignore .psci_modules directory
+.psci_modules/
+
+#ignore .psci config file
+.psci
