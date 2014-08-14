@@ -2,7 +2,7 @@
   "name": "hello-purescript",
   "version": "1.0.0",
   "authors": [
-    "David G.Chaves"
+    "David G. Chaves"
   ],
   "description": "My first PureScript App!!!",
   "main": "Gruntfile.js",
