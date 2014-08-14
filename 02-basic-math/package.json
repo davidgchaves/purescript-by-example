@@ -1,0 +1,14 @@
+{
+  "name": "mathsamples",
+  "version": "1.0.0",
+  "description": "My second PureScript App!!!",
+  "main": "Gruntfile.js",
+  "private": true,
+  "dependencies": {
+    "grunt-purescript": "^0.5.1",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "author": "David G. Chaves",
+  "license": "DWYWWM (Do Whatever You Want With Me) License"
+}
