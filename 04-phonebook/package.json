@@ -1,0 +1,13 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "Moar PureScript!!!",
+  "main": "",
+  "private": true,
+  "author": "David G. Chaves",
+  "license": "DWYWWM (Do Whatever You Want With Me) License",
+  "dependencies": {
+    "grunt-purescript": "^0.5.1",
+    "grunt": "^0.4.5"
+  }
+}

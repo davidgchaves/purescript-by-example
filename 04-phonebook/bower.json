@@ -1,0 +1,24 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "authors": [
+    "David G. Chaves"
+  ],
+  "description": "Moar PureScript!!!",
+  "license": "DWYWWM (Do Whatever You Want With Me) License",
+  "private": true,
+  "keywords": ["purescript"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "bower.json",
+    "package.json",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "purescript-lists": "*"
+  }
+}
