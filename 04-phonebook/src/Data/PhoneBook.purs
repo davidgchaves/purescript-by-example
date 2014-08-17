@@ -1,6 +1,7 @@
 module Data.PhoneBook where
 
 import Data.List
+import Control.Plus (empty)
 
 --
 -- Type Definitions
@@ -27,4 +28,7 @@ showEntry entry = entry.firstName ++ " " ++ entry.lastName ++ ": " ++ entry.phon
 -- > showEntry xoan
 --      Compiling Data.PhoneBook
 --      "Xoan Sen Medo: 981-112233"
+
+emptyBook :: PhoneBook
+emptyBook = empty
 
