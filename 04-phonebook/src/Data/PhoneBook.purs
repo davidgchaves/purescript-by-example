@@ -32,3 +32,6 @@ showEntry entry = entry.firstName ++ " " ++ entry.lastName ++ ": " ++ entry.phon
 emptyBook :: PhoneBook
 emptyBook = empty
 
+insertEntry :: Entry -> PhoneBook -> PhoneBook
+insertEntry = Cons
+
